@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(255,255,255) ;
+}
+  #div1{
+        padding: 20px;
+      
+      }
+       #text{
+      width: 1000px;
+        height: 50px;
+      }
+      .top {
+        width: 300px;
+        height: 50px;
+      }
+      #button {
+        height: 40px;
+        width: 180px;
+        background-color:rgb(233,32,43);
+        float: right;
+      }
+      #img{
+        margin: 2px;
+      }
+         #kishor{
+        display:flex;  
+        width: calc(100% - 70%);
+      }
+      #vacume {
+        width: 120px;
+        height: 150PX;
+      }
+      
+      #div2{
+        display: flex;
+         }
+         
+      #footer{
+        margin: 98px 0px;
+        height: 310px;
+        width: 380px;
+        padding: 12px;
+      }   
+      
